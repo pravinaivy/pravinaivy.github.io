@@ -122,3 +122,19 @@ body {
   text-decoration:none;
 }
 }
+
+/* PROGRAMMER SECTION */
+.programmer-heading {
+  font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50pt;
+  text-align: left;
+  padding: 15px;
+  padding-right: 20vw;
+  color: #949e95;
+  a:link, a:visited, a:hover {
+  color: #949e95;
+  text-decoration:none;
+}
+}
