@@ -110,8 +110,8 @@ body {
   text-align: justify;
   line-height: 1.5;
   padding: 15px;
-  padding-right: 20vw;
-  padding-left: 20vw;
+  margin-right: 20vw;
+  margin-left: 20vw;
   color: #000000;
   background-color: #ffffff;
   a:link, a:visited, a:hover {
