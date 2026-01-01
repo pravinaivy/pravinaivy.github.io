@@ -11,9 +11,9 @@ body {
   font-family: "Fredericka the Great", serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 75pt;
+  /* font-size: 75pt; */
   text-align: center;
-  padding: 45px;
+  padding: 15px;
   background-color: #949e95;
   color: #d4d8d5;
   a:link, a:visited, a:hover {
@@ -26,7 +26,7 @@ body {
   font-family: "Fredericka the Great", serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 50pt;
+  /* font-size: 50pt; */
   text-align: center;
   padding: 15px;
   background-color: #949e95;
