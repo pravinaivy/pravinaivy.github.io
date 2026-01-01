@@ -113,8 +113,8 @@ body {
   font-size: 16pt;
   line-height: 1.5;
   padding: 25px;
-  margin-right: 20vw;
-  margin-left: 20vw;
+  width: 1090px;
+  margin: 0 auto;
   color: #000000;
   background-color: #ffffff;
   a:link, a:visited, a:hover {
