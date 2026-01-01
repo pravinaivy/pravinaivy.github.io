@@ -83,6 +83,10 @@ body {
 }
 }
 
+.main-clear {
+  clear: both;
+}
+
 /* AUTHOR SECTION */
 /* Color Palette: #1c4587 for darkblue, #ffffff for white, #000000 for black. */
 
