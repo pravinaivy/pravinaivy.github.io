@@ -22,17 +22,32 @@ body {
 }
 }
 
+.main-subtitle {
+  font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50pt;
+  text-align: center;
+  padding: 15px;
+  background-color: #949e95;
+  color: #d4d8d5;
+  a:link, a:visited, a:hover {
+  color: #d4d8d5;
+  text-decoration:none;
+}
+}
+
 .main-heading {
   font-family: "Fredericka the Great", serif;
   font-weight: 400;
   font-style: normal;
   font-size: 50pt;
   text-align: center;
-  padding: 45px;
-  background-color: #949e95;
-  color: #d4d8d5;
+  padding: 15px;
+  background-color: #d4d8d5;
+  color: #7e8b80;
   a:link, a:visited, a:hover {
-  color: #d4d8d5;
+  color: #7e8b80;
   text-decoration:none;
 }
 }
@@ -62,5 +77,21 @@ body {
   a:link, a:visited, a:hover {
   color: #a9b1aa;
   text-decoration: underline;
+}
+}
+
+/* AUTHOR SECTION */
+
+.author-heading {
+  font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50pt;
+  text-align: left;
+  padding: 15px;
+  color: #7e8b80;
+  a:link, a:visited, a:hover {
+  color: #7e8b80;
+  text-decoration:none;
 }
 }
