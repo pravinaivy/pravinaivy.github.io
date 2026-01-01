@@ -15,6 +15,7 @@ body {
   /* font-size: 75pt; */
   text-align: center;
   padding: 31px;
+  padding-top: 45px;
   background-color: #949e95;
   color: #d4d8d5;
   a:link, a:visited, a:hover {
@@ -30,6 +31,7 @@ body {
   /* font-size: 50pt; */
   text-align: center;
   padding: 31px;
+  padding-bottom: 45px;
   background-color: #949e95;
   color: #d4d8d5;
   a:link, a:visited, a:hover {
@@ -82,6 +84,7 @@ body {
 }
 
 /* AUTHOR SECTION */
+/* Color Palette: #1c4587 for darkblue, #ffffff for white, #000000 for black. */
 
 .author-heading {
   font-family: "Fredericka the Great", serif;
@@ -90,9 +93,26 @@ body {
   font-size: 50pt;
   text-align: right;
   padding: 15px;
-  color: #7e8b80;
+  padding-right: 20vw;
+  color: #1c4587;
   a:link, a:visited, a:hover {
-  color: #7e8b80;
+  color: #1c4587;
+  text-decoration:none;
+}
+}
+
+.author-body {
+  font-family: "Oregano", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13pt;
+  text-align: justify;
+  padding: 15px;
+  padding-right: 20vw;
+  padding-left: 20vw;
+  color: #000000;
+  a:link, a:visited, a:hover {
+  color: #1c4587;
   text-decoration:none;
 }
 }
