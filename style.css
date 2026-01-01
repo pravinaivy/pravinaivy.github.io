@@ -1,3 +1,66 @@
+/* MAIN WEBSITE HOMEPAGE */
+
+/* Color palette url: https://coolors.co/7e8b80-949e95-a9b1aa-bfc5bf-d4d8d5
+In order from dark to light. Darkest for link, second darkest for main text, lightest for background. */
+
 body {
-  padding: 25px;
+  padding: 15px;
+}
+
+.main-title {
+  font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 75pt;
+  text-align: center;
+  padding: 45px;
+  background-color: #949e95;
+  color: #d4d8d5;
+  a:link, a:visited, a:hover {
+  color: #d4d8d5;
+  text-decoration:none;
+}
+}
+
+.main-heading {
+  font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50pt;
+  text-align: center;
+  padding: 45px;
+  background-color: #949e95;
+  color: #d4d8d5;
+  a:link, a:visited, a:hover {
+  color: #d4d8d5;
+  text-decoration:none;
+}
+}
+
+.main-body {
+  font-family: "Oregano", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #d4d8d5;
+  font-size: 13pt;
+  text-align: justify;
+  color: #949e95;
+  a:link, a:visited, a:hover {
+  color: #7e8b80;
+  text-decoration: underline;
+}
+}
+
+.main-footer {
+  font-family: "Oregano", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #d4d8d5;
+  font-size: 10pt;
+  text-align: left;
+  color: #a9b1aa;
+  a:link, a:visited, a:hover {
+  color: #a9b1aa;
+  text-decoration: underline;
+}
 }
