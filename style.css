@@ -47,7 +47,7 @@ body {
   font-size: 50pt;
   text-align: left;
   padding: 15px;
-  width: 750px;
+  width: 900px;
   margin: 0 auto;
   color: #7e8b80;
   a:link, a:visited, a:hover {
@@ -98,7 +98,7 @@ body {
   font-size: 50pt;
   text-align: right;
   padding: 15px;
-  width: 750px;
+  width: 900px;
   margin: 0 auto;
   color: #949e95;
   a:link, a:visited, a:hover {
@@ -115,7 +115,7 @@ body {
   font-size: 16pt;
   line-height: 1.5;
   padding: 25px;
-  width: 750px;
+  width: 900px;
   margin: 0 auto;
   color: #000000;
   background-color: #ffffff;
@@ -133,7 +133,7 @@ body {
   font-size: 50pt;
   text-align: left;
   padding: 15px;
-  width: 750px;
+  width: 900px;
   margin: 0 auto;
   color: #949e95;
   a:link, a:visited, a:hover {
@@ -150,7 +150,7 @@ body {
   font-size: 16pt;
   line-height: 1.5;
   padding: 25px;
-  width: 750px;
+  width: 900px;
   margin: 0 auto;
   color: #000000; /* REMINDER: Find a color palette for the "entrepreneur" section */
   background-color: #ffffff; /* Background color shall stay the same, at least for the homepage */
@@ -168,7 +168,7 @@ body {
   font-size: 50pt;
   text-align: right;
   padding: 15px;
-  width: 750px;
+  width: 900px;
   margin: 0 auto;
   color: #949e95;
   a:link, a:visited, a:hover {
@@ -185,7 +185,7 @@ body {
   font-size: 16pt;
   line-height: 1.5;
   padding: 25px;
-  width: 750px;
+  width: 900px;
   margin: 0 auto;
   color: #000000; /* REMINDER: Find a color palette for the "pianist" section */
   background-color: #ffffff; /* Background color shall stay the same, at least for the homepage */
