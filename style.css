@@ -125,8 +125,43 @@ body {
 }
 }
 
-/* PROGRAMMER SECTION */
-.programmer-heading {
+/* ENTREPRENEUR SECTION */
+.entrepreneur-heading {
+  font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50pt;
+  text-align: left;
+  padding: 15px;
+  width: 1090px;
+  margin: 0 auto;
+  color: #949e95;
+  a:link, a:visited, a:hover {
+  color: #949e95;
+  text-decoration:none;
+}
+}
+
+.entrepreneur-body {
+  font-family: "Oregano", cursive; /* Font might be changed later? I was thinking of having a brand font for the headings, and maybe leaving Oregano for body text. */
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16pt;
+  line-height: 1.5;
+  padding: 25px;
+  width: 1090px;
+  margin: 0 auto;
+  color: #000000; /* REMINDER: Find a color palette for the "entrepreneur" section */
+  background-color: #ffffff; /* Background color shall stay the same, at least for the homepage */
+  a:link, a:visited, a:hover {
+  color: #1c4587; /* REMINDER: Find a color palette for the "entrepreneur" section */
+  text-decoration:none;
+}
+}
+
+/* PIANIST SECTION */
+.pianist-heading {
   font-family: "Fredericka the Great", serif;
   font-weight: 400;
   font-style: normal;
@@ -138,6 +173,24 @@ body {
   color: #949e95;
   a:link, a:visited, a:hover {
   color: #949e95;
+  text-decoration:none;
+}
+}
+
+.pianist-body {
+  font-family: "Oregano", cursive; /* Font might be changed later? I was thinking of having a different font for the headings, and maybe leaving Oregano for body text. */
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16pt;
+  line-height: 1.5;
+  padding: 25px;
+  width: 1090px;
+  margin: 0 auto;
+  color: #000000; /* REMINDER: Find a color palette for the "pianist" section */
+  background-color: #ffffff; /* Background color shall stay the same, at least for the homepage */
+  a:link, a:visited, a:hover {
+  color: #1c4587; /* REMINDER: Find a color palette for the "pianist" section */
   text-decoration:none;
 }
 }
